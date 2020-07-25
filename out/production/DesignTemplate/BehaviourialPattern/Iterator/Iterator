@@ -1,0 +1,6 @@
+According to GoF, Iterator Pattern is used "to access the elements of an aggregate object
+sequentially without exposing its underlying implementation".
+
+The Iterator pattern is also known as Cursor.
+
+In collection framework, we are now using Iterator that is preferred over Enumeration.

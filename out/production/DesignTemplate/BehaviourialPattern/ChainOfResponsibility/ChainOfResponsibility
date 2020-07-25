@@ -1,0 +1,6 @@
+"avoid coupling the sender of a request to its receiver by giving multiple objects a chance to handle the request".
+ For example, an ATM uses the Chain of Responsibility design pattern in money giving process.
+
+ we can say that normally each receiver contains reference of another receiver.
+ If one object cannot handle the request then it passes the same to the next receiver and so on.
+

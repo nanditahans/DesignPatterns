@@ -1,0 +1,3 @@
+A Template Pattern says that "just define the skeleton of a function in an operation,
+deferring some steps to its subclasses".
+

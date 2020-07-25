@@ -1,0 +1,2 @@
+An Interpreter Pattern says that "to define a representation of grammar of a given language,
+along with an interpreter that uses this representation to interpret sentences in the language".

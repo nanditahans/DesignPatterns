@@ -1,0 +1,2 @@
+An Adapter Pattern says that just "converts the interface of a
+ into another interface that a client wants".

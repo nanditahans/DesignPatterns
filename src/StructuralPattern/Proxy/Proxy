@@ -1,0 +1,2 @@
+According to GoF, a Proxy Pattern "provides the control for accessing the original object".
+In proxy pattern, we create object having original object to interface its functionality to outer world.

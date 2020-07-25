@@ -1,0 +1,2 @@
+Mediator pattern focuses on providing a mediator between objects for communication and
+help in implementing lose-coupling between objects.
